@@ -16,6 +16,10 @@ angular.module('starter', ['ionic', 'ngCordova'])
   })
 
 
+
+  //hello world
+
+
   //Main controller
   .controller('dashBoard', function($scope, $cordovaGeolocation, $ionicPlatform, $cordovaDeviceOrientation, $interval, $timeout, $ionicLoading, $rootScope) {
     /////Variable dependencies
